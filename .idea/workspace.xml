@@ -12,6 +12,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -30,9 +31,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ACER/Desktop/myproject&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ACER/Desktop/secondmonth 15-02&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Desktop\secondmonth 15-02\lesson4\dz4" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="secondmonth 15-02" />
@@ -72,6 +79,11 @@
       <workItem from="1654697013741" duration="11455000" />
       <workItem from="1654879986687" duration="91000" />
       <workItem from="1654950872779" duration="13061000" />
+      <workItem from="1655219538432" duration="1154000" />
+      <workItem from="1655302408075" duration="2697000" />
+      <workItem from="1655305972808" duration="2500000" />
+      <workItem from="1655394209792" duration="4787000" />
+      <workItem from="1655484761056" duration="2398000" />
     </task>
     <servers />
   </component>

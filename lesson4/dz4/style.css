@@ -1,0 +1,28 @@
+body{
+  background-image: url("image.jpg");
+  background-repeat: no-repeat;
+}
+.counter {
+  display: flex;
+  padding: 10px;
+}
+button{
+  background-color:rosybrown;
+  border: none ;
+  border-radius: 2px;
+  margin: 15px;
+}
+button:hover{
+  transform: scale(1.5);
+  transition-duration: 0.5s;
+}
+input{
+  background-color: blanchedalmond;
+  border: none;
+  border-radius: 5px;
+  margin: 10px;
+}
+input:hover{
+  transform: scale(1.2);
+  transition-duration: 0.5s;
+}
