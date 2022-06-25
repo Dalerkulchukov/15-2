@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0acfb203-a806-40a9-bd2b-caa3a71b26c2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +35,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/ACER/Desktop/secondmonth 15-02&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -83,7 +90,12 @@
       <workItem from="1655302408075" duration="2697000" />
       <workItem from="1655305972808" duration="2500000" />
       <workItem from="1655394209792" duration="4787000" />
-      <workItem from="1655484761056" duration="2398000" />
+      <workItem from="1655484761056" duration="2847000" />
+      <workItem from="1655634395160" duration="34000" />
+      <workItem from="1655739460024" duration="182000" />
+      <workItem from="1655906505803" duration="5946000" />
+      <workItem from="1656093112951" duration="73000" />
+      <workItem from="1656135597094" duration="965000" />
     </task>
     <servers />
   </component>

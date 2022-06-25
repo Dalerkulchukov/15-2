@@ -28,4 +28,3 @@ counts.forEach(counterFunction);
 
 
 
-
